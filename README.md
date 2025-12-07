@@ -178,9 +178,6 @@ style: |
     text-align: center;
     font-size: 0.85em;
   }
-  section {
-  font-size: 1.85em;
-  }
   .badge {
     display: inline-block;
     background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
