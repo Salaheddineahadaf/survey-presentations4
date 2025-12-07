@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: default
+html: true
 paginate: true
 backgroundColor: #0a0a14
 color: #e8e8e8
